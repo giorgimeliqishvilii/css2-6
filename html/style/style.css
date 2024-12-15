@@ -1,0 +1,276 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainContainer {
+    padding: 64px 158px 268px 158px;
+}
+
+#containerWrapper {
+    padding: 96px;
+    background-color: #E4EBFF;
+    max-width: 1412px;
+    width: 100%;
+}
+
+#ContentContainer {
+    background-color: white;
+    max-width: 1280px;
+    width: 100%;
+    padding: 96px 0 96px 0;
+
+}
+
+header {
+    text-align: center;
+    max-width: 1216px;
+    width: 100%;
+    padding: 0 32px 0 32px;
+    margin-bottom: 120px;
+
+}
+
+#featuresP {
+    color: #6941C6;
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #181D27;
+}
+
+#powerfulP {
+    padding-top: 32px;
+    font-size: 20px;
+    color: #535862;
+}
+
+#shareTeamInboxesMainContainer {
+    margin-bottom: 96px;
+}
+
+#teamInboxesContainer {
+    display: inline-block;
+    width: 58%;
+    padding-left: 32px;
+    vertical-align: middle;
+}
+
+#mesaageChatContainer {
+    padding-bottom: 20px;
+}
+
+#shareTeamInboxesH2 {
+    font-size: 30px;
+    color: #181D27;
+    padding-bottom: 16px;
+}
+
+#whetherP {
+    color: #535862;
+    font-size: 18px;
+    padding-bottom: 32px;
+}
+
+#inboxesIconContainer {
+    padding-left: 16px;
+}
+
+#leverageCotainer {
+    padding-bottom: 20px;
+}
+
+#checkSircle {
+    vertical-align: middle;
+}
+
+#leverageP {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+    color: #535862;
+    padding-left: 12px;
+}
+
+#alwaysContainer {
+    padding-bottom: 20px;
+}
+
+#checkSircleTwo {
+    vertical-align: middle;
+}
+
+#alwaysP {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    color: #535862;
+    font-size: 18px;
+}
+
+#checkSircleThree {
+    vertical-align: middle;
+}
+
+#automateP {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    color: #535862;
+    font-size: 18px;
+}
+
+#firtsDashboardContainer {
+    display: inline-block;
+}
+
+#firstDashboard {
+    vertical-align: middle;
+    width: 40%;
+}
+
+#deliverOInstantAnswerMainContainer {
+    margin-bottom: 96px;
+}
+
+#secondDashboard {
+    vertical-align: middle;
+    width: 41%;
+}
+
+#deliverInstantAnswerContainer {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%;
+    margin-left: 8%;
+}
+
+#zap-fastContainer {
+    padding-bottom: 20px;
+}
+
+#deliverH2 {
+    font-size: 30px;
+    color: #181D27;
+    padding-bottom: 16px;
+}
+
+#anAllInOneP {
+    font-size: 18px;
+    color: #535862;
+    padding-bottom: 32px;
+}
+
+#instantAnswersContainer {
+    padding-left: 16px;
+}
+
+#liveChatContainer {
+    padding-bottom: 20px;
+}
+
+#firstCheckSircle {
+    vertical-align: middle;
+}
+
+#LiveChatP {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    font-size: 18px;
+    color: #535862;
+}
+
+#embedHelpContainer {
+    padding-bottom: 20px;
+}
+
+#secondCheckSircle {
+    vertical-align: middle;
+}
+
+#embedHelpP {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    font-size: 18px;
+    color: #535862;
+}
+
+#thirdCheckSircle {
+    vertical-align: middle;
+}
+
+#costumersP {
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    font-size: 18px;
+    color: #535862;
+}
+#manageTeamContainer{
+    display: inline-block;
+    width: 58%;
+    padding-left: 32px;
+    vertical-align: middle;
+}
+#chartSquareContainer{
+    padding-bottom: 20px;
+}
+#manageH2{
+    color: #181D27;
+    font-size: 30px;
+    padding-bottom: 16px;
+}
+#measureP{
+    color: #535862;
+    font-size: 18px;
+    padding-bottom: 32px;
+}
+#manageIconContainer{
+    padding-left: 16px;
+}
+#FilterContainer{
+    padding-bottom: 20px;
+}
+#checksircleOne{
+    vertical-align: middle;
+}
+#filterP{
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 12px;
+    color: #535862;
+    font-size: 18px;
+}
+#SaveContainer{
+    padding-bottom: 20px;
+}
+#checksircleTwo{
+    vertical-align: middle;
+}
+#SaveP{
+     display: inline-block;
+     vertical-align: middle;
+     padding-left: 12px;
+     color: #535862;
+     font-size: 18px;
+}
+#checksircleThree{
+    vertical-align: middle;
+}
+#connectP{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 12px;
+    color: #535862;
+    font-size: 18px;
+}
+#thirdDashboard{
+    width: 40%;
+    vertical-align: middle;
+}
